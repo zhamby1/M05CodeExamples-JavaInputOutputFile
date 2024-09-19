@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicInputOutput/BasicInputOutput.iml" filepath="$PROJECT_DIR$/BasicInputOutput/BasicInputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStream/DataStream.iml" filepath="$PROJECT_DIR$/DataStream/DataStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInputOutputFile.iml" filepath="$PROJECT_DIR$/JavaInputOutputFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectReadWrite/ObjectReadWrite.iml" filepath="$PROJECT_DIR$/ObjectReadWrite/ObjectReadWrite.iml" />
+    </modules>
+  </component>
+</project>
